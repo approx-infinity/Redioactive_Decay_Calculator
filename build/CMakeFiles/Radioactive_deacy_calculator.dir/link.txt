@@ -1,1 +1,0 @@
-/usr/bin/c++ -static-libstdc++ -static-libgcc CMakeFiles/Radioactive_deacy_calculator.dir/src/Radioactive_deacy_calculator.cpp.o -o Radioactive_deacy_calculator  -Wl,-rpath,/home/hridoy/miniconda3/lib /home/hridoy/miniconda3/lib/libpython3.13.so 
